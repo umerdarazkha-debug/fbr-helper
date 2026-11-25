@@ -1,0 +1,46 @@
+{
+ "tax_year": "2099",
+ "taxpayer": "Demo Taxpayer",
+ "items": [
+  {
+   "kind": "salary",
+   "source": "salary_certificate_demo_employer.pdf",
+   "amount": 1200000,
+   "tax_withheld": 60000,
+   "reference": "cert DEMO-1"
+  },
+  {
+   "kind": "salary",
+   "source": "salary_certificate_second_employer.pdf",
+   "amount": 300000,
+   "tax_withheld": 0
+  },
+  {
+   "kind": "bank_profit",
+   "source": "demo_bank_profit_certificate.pdf",
+   "amount": 80000,
+   "tax_withheld": 12000
+  },
+  {
+   "kind": "withholding_certificate",
+   "source": "demo_cert_cash_withdrawal.pdf",
+   "amount": 0,
+   "tax_withheld": 4000,
+   "reference": "section 231A"
+  },
+  {
+   "kind": "freelance_remittance",
+   "source": "remittance_1.png",
+   "amount": 500000,
+   "tax_withheld": 0,
+   "reference": "PRC-DEMO-001"
+  },
+  {
+   "kind": "freelance_remittance",
+   "source": "remittance_2.png",
+   "amount": 250000,
+   "tax_withheld": 0,
+   "reference": ""
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "_readme": "Plain-language table. Every entry is verified:false. To mark one verified, read the section in the source and edit the text yourself.",
+ "sections": {
+  "114": {
+   "title": "Return of income",
+   "plain": "Section 114 deals with who must file an income tax return and when. A notice under it asks you to file a missing return.",
+   "typical_response": "File the return through IRIS before the deadline, or write to the office asking for time with a reason.",
+   "penalty": "Late or missing return penalties are in section 182 (see that entry). Exact amounts: UNVERIFIED, check the source.",
+   "documents": [
+    "CNIC / NTN",
+    "Salary certificate or income records for the tax year",
+    "Bank statements and profit certificates",
+    "Withholding tax certificates",
+    "Wealth statement figures"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "114(4)": {
+   "title": "Notice to file a return (sub-section 4)",
+   "plain": "Under 114(4) the tax office can send a notice asking a person to file a return for one or more past tax years. The text indexed on the FBR site says the notice may cover the last ten completed tax years (check the source).",
+   "typical_response": "Reply by filing the return for the named tax year on IRIS before the notice deadline. If you were not required to file, reply in writing with reasons and proof.",
+   "penalty": "Not filing can lead to an assessment and penalties (see 182). Amounts UNVERIFIED.",
+   "documents": [
+    "CNIC / NTN",
+    "Income records for the named tax year",
+    "Bank statements",
+    "Withholding tax certificates",
+    "Proof of any reason you did not need to file"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "116": {
+   "title": "Wealth statement",
+   "plain": "Section 116 asks for a statement of your assets and liabilities. A notice under it asks you to file or explain it.",
+   "typical_response": "File or correct the wealth statement on IRIS. Keep proof of each asset and loan.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Property documents",
+    "Vehicle registration",
+    "Bank balances on 30 June",
+    "Loan statements",
+    "Gold and investment records"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "120": {
+   "title": "Assessment",
+   "plain": "Section 120 covers how a filed return is treated as an assessment. A letter under it usually follows a filed return.",
+   "typical_response": "Read the letter, check the figures against your return, and reply in writing if something is wrong.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Copy of the filed return",
+    "Supporting records for each figure"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "122": {
+   "title": "Amendment of assessment",
+   "plain": "Section 122 lets the tax office change an assessment it thinks is wrong, after giving you a chance to be heard. A notice under it lists what the office thinks is missing.",
+   "typical_response": "Reply in writing by the date given, attach proof for each point, and ask for a hearing. You can also appeal against an order later (section 129). Get advice from a tax professional.",
+   "penalty": "Extra tax and possible penalties. UNVERIFIED, check the source.",
+   "documents": [
+    "Return for the tax year",
+    "Bank statements",
+    "Invoices and sales records",
+    "Withholding certificates",
+    "Proof for each point in the notice"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "129": {
+   "title": "Appeal to the Commissioner (Appeals)",
+   "plain": "Section 129 is the route to appeal against some assessment orders.",
+   "typical_response": "Appeals have time limits and forms. Check the order for the deadline and use IRIS or the office as it directs. Get professional advice.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Copy of the order",
+    "Grounds of appeal",
+    "Proof of payment, if any is required"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "161": {
+   "title": "Withholding agent default",
+   "plain": "Section 161 deals with tax that should have been deducted and deposited by a person who pays you or by your business.",
+   "typical_response": "Check what you deducted and deposited. Reply with challans and statements.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Withholding statements",
+    "Deposit challans",
+    "Payment records"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "165": {
+   "title": "Statements of withholding",
+   "plain": "Section 165 covers statements of tax deducted that withholding agents must file.",
+   "typical_response": "File the missing statement on IRIS or reply with proof it was filed.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Deduction records",
+    "Challans",
+    "Previous statements"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "176": {
+   "title": "Notice to obtain information",
+   "plain": "Section 176 lets the office ask for information or documents.",
+   "typical_response": "Send exactly the items asked for, by the date given, and keep a receipt.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Documents listed in the notice"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "177": {
+   "title": "Audit",
+   "plain": "Section 177 covers audit. A notice asks you to produce records so the office can check your return.",
+   "typical_response": "Send the requested records by the deadline. If you need time, ask in writing before the deadline.",
+   "penalty": "Not producing the records can lead to a penalty that grows with each notice (see 182). A summary of FBR's section 182 page gave 25,000, 50,000 and 100,000 rupees for the first, second and third failure. That figure is UNVERIFIED, check the source.",
+   "documents": [
+    "Books of account or income records",
+    "Bank statements",
+    "Invoices and receipts",
+    "Withholding certificates",
+    "Previous returns"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "182": {
+   "title": "Penalties",
+   "plain": "Section 182 lists penalties for failures such as not filing a return on time or not producing records. A notice under 182 is usually a show-cause: it asks why a penalty should not be imposed.",
+   "typical_response": "Reply before the deadline with the reason for the delay and proof (illness, system problem, or that you already complied). File the missing return or documents too.",
+   "penalty": "A summary of FBR's section 182 page gave, for a late return, 0.1 percent of tax payable per day up to a cap, with a minimum amount. The figures are UNVERIFIED. Read the section in the source.",
+   "documents": [
+    "Proof of the reason for delay",
+    "Copy of the return or documents now filed",
+    "Previous correspondence"
+   ],
+   "verified": false,
+   "source_url": "https://fbr.gov.pk/section-182/152727",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  },
+  "140": {
+   "title": "Recovery from third parties",
+   "plain": "Section 140 allows the office to ask a bank or other person holding your money to pay the tax due to the government.",
+   "typical_response": "Check whether the demand is correct. If you disagree, reply in writing straight away and ask a tax professional about a stay.",
+   "penalty": "UNVERIFIED, check the source.",
+   "documents": [
+    "Demand notice",
+    "Proof of payment or appeal",
+    "Bank statements"
+   ],
+   "verified": false,
+   "source_url": "https://download1.fbr.gov.pk/Docs/202412215123222278IncomeTaxOrdinanceAmendedupto30.06.2022.pdf",
+   "checked": "2026-11-26",
+   "note": "Plain-language description written for this tool. Not copied from the legal text. Read the section in the source before relying on it."
+  }
+ }
+}

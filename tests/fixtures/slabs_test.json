@@ -1,0 +1,30 @@
+{
+ "_readme": "TEST ONLY, invented numbers.",
+ "tax_years": {
+  "2099": {
+   "verified": true,
+   "source_url": "https://example.com/test",
+   "checked": "2026-11-26",
+   "slabs": [
+    {
+     "over": 0,
+     "up_to": 100000,
+     "fixed": 0,
+     "rate": 0.0
+    },
+    {
+     "over": 100000,
+     "up_to": 300000,
+     "fixed": 0,
+     "rate": 0.1
+    },
+    {
+     "over": 300000,
+     "up_to": null,
+     "fixed": 20000,
+     "rate": 0.2
+    }
+   ]
+  }
+ }
+}

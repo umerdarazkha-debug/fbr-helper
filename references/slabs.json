@@ -1,0 +1,12 @@
+{
+ "_readme": "Individual income tax slabs. Fill ONLY from the Finance Act or the FBR website for the tax year. verified:false means the tool will not compute tax.",
+ "tax_years": {
+  "2027": {
+   "verified": false,
+   "source_url": "https://www.fbr.gov.pk",
+   "checked": "2026-11-26",
+   "slabs": null,
+   "detail": "News reports say the Finance Act 2026 changed the salaried slabs for tax year 2027, but the official FBR table was not retrieved. Not entered. Slab format: [{\"over\":0,\"up_to\":600000,\"fixed\":0,\"rate\":0.0}, ...] where tax = fixed + (income - over) x rate."
+  }
+ }
+}

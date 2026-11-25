@@ -1,0 +1,25 @@
+{
+ "_readme": "IRIS screen names can change. Every row is UNVERIFIED. Check the current IRIS screens.",
+ "kinds": {
+  "salary": {
+   "head": "Income from Salary",
+   "iris": "IRIS return, Salary section (gross salary, tax deducted by employer)",
+   "verified": false
+  },
+  "bank_profit": {
+   "head": "Profit on debt (other sources)",
+   "iris": "IRIS return, Income from other sources / profit on debt, and withholding credit",
+   "verified": false
+  },
+  "withholding_certificate": {
+   "head": "Tax already withheld",
+   "iris": "IRIS return, Adjustable / final tax withheld section (match the section on the certificate)",
+   "verified": false
+  },
+  "freelance_remittance": {
+   "head": "Income from business (export of services)",
+   "iris": "IRIS return, Business income / export of services, with the PRC number noted",
+   "verified": false
+  }
+ }
+}
